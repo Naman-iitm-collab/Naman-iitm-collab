@@ -34,7 +34,7 @@
 
 ## 🧰 Tech Stack & Tools
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,bootstrap,git,github,vscode,figma,linux" />
 </p>
 
@@ -43,7 +43,7 @@
 ## 🏆 Badges & Achievements
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-iitm&show_icons=true&count_private=true&theme=radical)
 <p align="center">
-	## 🧠 Google Cloud AI Badges
+	## 🧠 Google Cloud AI Badges -->
 
 <!-- <p align="center">
   <img src="https://i.ibb.co/RTwwNQXy/IMG-1861.png" alt="Responsible AI Badge" width="250"/>
