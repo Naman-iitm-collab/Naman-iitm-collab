@@ -86,7 +86,7 @@
 
 ### 🖼️ Certification Images
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://iili.io/Fe3t3zu.md.jpg" alt="Google Cloud" border="0" width="250"/>
   <img src="https://iili.io/Fe3ZvWJ.md.jpg" alt="Microsoft" border="0" width="250"/>
   <img src="https://iili.io/Fe3tRLJ.md.jpg" alt="AMAZOM AWS" border="0" width="250"/>
@@ -107,7 +107,7 @@
 <img src="https://i.ibb.co/F4SNHgRJ/IMG-2207.jpg" alt="IMG-2207" width="250"  border="0">
 <img src="https://i.ibb.co/1tC4vk1F/IMG-2208.jpg" alt="IMG-2208" width="250"  border="0">
 <img src="https://i.ibb.co/cSXxSJSP/IMG-2210.jpg" alt="IMG-2210" width="250"  border="0">
-</p>
+</p> -->
 
 ---
 
